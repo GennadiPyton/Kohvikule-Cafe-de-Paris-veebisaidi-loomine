@@ -25,8 +25,8 @@
                 <div class="pull-right">
                     <li>
                         <form action="search">
-                            <input type="text" name="otsi">
-                            <input type="submit" value="otsi">
+                            <input type="text" name="Search">
+                            <input type="submit" value="Search">
                         </form>
                     </li>
                 </div>
