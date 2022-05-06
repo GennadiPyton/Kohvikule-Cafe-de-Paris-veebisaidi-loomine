@@ -261,3 +261,6 @@ body {
   .container .row .col .zoom {
     text-shadow: 0 0 0 #000020;
   }
+  .hog {
+    height: 170px;
+  }
