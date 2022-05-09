@@ -1,7 +1,7 @@
 <?php
 ob_start();
 ?>
-<h1>Uudised (kategoorii)</h1>
+<h1>Categories</h1>
 <br>
 
 <?php
